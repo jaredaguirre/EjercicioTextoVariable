@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1588493526 source:c:\users\54112\desktop\ejercicios en c\ejerciciotextovariable\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1588493526 c:\users\54112\desktop\ejercicios en c\ejerciciotextovariable\funciones.h
+
+1588493152 source:c:\users\54112\desktop\ejercicios en c\ejerciciotextovariable\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
